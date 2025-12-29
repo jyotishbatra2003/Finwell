@@ -1,0 +1,12 @@
+C:\Users\khand\source\repos\Finwell\Finwell\bin\Release\net8.0\FinwellLibrary.deps.json
+C:\Users\khand\source\repos\Finwell\Finwell\bin\Release\net8.0\FinwellLibrary.dll
+C:\Users\khand\source\repos\Finwell\Finwell\bin\Release\net8.0\FinwellLibrary.pdb
+C:\Users\khand\source\repos\Finwell\Finwell\obj\Release\net8.0\FinwellLibrary.csproj.AssemblyReference.cache
+C:\Users\khand\source\repos\Finwell\Finwell\obj\Release\net8.0\FinwellLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khand\source\repos\Finwell\Finwell\obj\Release\net8.0\FinwellLibrary.AssemblyInfoInputs.cache
+C:\Users\khand\source\repos\Finwell\Finwell\obj\Release\net8.0\FinwellLibrary.AssemblyInfo.cs
+C:\Users\khand\source\repos\Finwell\Finwell\obj\Release\net8.0\FinwellLibrary.csproj.CoreCompileInputs.cache
+C:\Users\khand\source\repos\Finwell\Finwell\obj\Release\net8.0\FinwellLibrary.dll
+C:\Users\khand\source\repos\Finwell\Finwell\obj\Release\net8.0\refint\FinwellLibrary.dll
+C:\Users\khand\source\repos\Finwell\Finwell\obj\Release\net8.0\FinwellLibrary.pdb
+C:\Users\khand\source\repos\Finwell\Finwell\obj\Release\net8.0\ref\FinwellLibrary.dll

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khand\\source\\repos\\Finwell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F11F5-B338-4F8B-9FD5-AF820CB94567}|Finwell\\FinwellLibrary.csproj|c:\\users\\khand\\source\\repos\\finwell\\finwell\\businesslogic\\randomeventgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F11F5-B338-4F8B-9FD5-AF820CB94567}|Finwell\\FinwellLibrary.csproj|solutionrelative:finwell\\businesslogic\\randomeventgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA4BE5-F821-4CB8-922E-80487D036D65}|FinwellUI\\FinwellUI.csproj|C:\\Users\\khand\\source\\repos\\Finwell\\finwellui\\leadershippage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ACA4BE5-F821-4CB8-922E-80487D036D65}|FinwellUI\\FinwellUI.csproj|solutionrelative:finwellui\\leadershippage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA4BE5-F821-4CB8-922E-80487D036D65}|FinwellUI\\FinwellUI.csproj|c:\\users\\khand\\source\\repos\\finwell\\finwellui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA4BE5-F821-4CB8-922E-80487D036D65}|FinwellUI\\FinwellUI.csproj|solutionrelative:finwellui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA4BE5-F821-4CB8-922E-80487D036D65}|FinwellUI\\FinwellUI.csproj|C:\\Users\\khand\\source\\repos\\Finwell\\finwellui\\authpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ACA4BE5-F821-4CB8-922E-80487D036D65}|FinwellUI\\FinwellUI.csproj|solutionrelative:finwellui\\authpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomEventGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\khand\\source\\repos\\Finwell\\Finwell\\BusinessLogic\\RandomEventGenerator.cs",
+              "RelativeDocumentMoniker": "Finwell\\BusinessLogic\\RandomEventGenerator.cs",
+              "ToolTip": "C:\\Users\\khand\\source\\repos\\Finwell\\Finwell\\BusinessLogic\\RandomEventGenerator.cs",
+              "RelativeToolTip": "Finwell\\BusinessLogic\\RandomEventGenerator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwIEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:53:52.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeadershipPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khand\\source\\repos\\Finwell\\FinwellUI\\LeadershipPage.cs",
+              "RelativeDocumentMoniker": "FinwellUI\\LeadershipPage.cs",
+              "ToolTip": "C:\\Users\\khand\\source\\repos\\Finwell\\FinwellUI\\LeadershipPage.cs [Design]",
+              "RelativeToolTip": "FinwellUI\\LeadershipPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:19:26.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khand\\source\\repos\\Finwell\\FinwellUI\\Program.cs",
+              "RelativeDocumentMoniker": "FinwellUI\\Program.cs",
+              "ToolTip": "C:\\Users\\khand\\source\\repos\\Finwell\\FinwellUI\\Program.cs",
+              "RelativeToolTip": "FinwellUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:17:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "authPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khand\\source\\repos\\Finwell\\FinwellUI\\authPage.cs",
+              "RelativeDocumentMoniker": "FinwellUI\\authPage.cs",
+              "ToolTip": "C:\\Users\\khand\\source\\repos\\Finwell\\FinwellUI\\authPage.cs [Design]",
+              "RelativeToolTip": "FinwellUI\\authPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:17:31.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
