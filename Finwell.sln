@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -29,3 +30,36 @@ Global
 		SolutionGuid = {B8D61A66-2124-41B9-B9A6-CFAA43665DE6}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinwellLibrary", "Finwell\FinwellLibrary.csproj", "{2B6F11F5-B338-4F8B-9FD5-AF820CB94567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinwellUI", "FinwellUI\FinwellUI.csproj", "{7ACA4BE5-F821-4CB8-922E-80487D036D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6F11F5-B338-4F8B-9FD5-AF820CB94567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6F11F5-B338-4F8B-9FD5-AF820CB94567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6F11F5-B338-4F8B-9FD5-AF820CB94567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6F11F5-B338-4F8B-9FD5-AF820CB94567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACA4BE5-F821-4CB8-922E-80487D036D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACA4BE5-F821-4CB8-922E-80487D036D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACA4BE5-F821-4CB8-922E-80487D036D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACA4BE5-F821-4CB8-922E-80487D036D65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D61A66-2124-41B9-B9A6-CFAA43665DE6}
+	EndGlobalSection
+EndGlobal
+>>>>>>> b22b17e07d6b44977c88855495a3e664f9ad6ef8
